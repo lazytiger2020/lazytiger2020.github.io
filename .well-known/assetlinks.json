@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sanchitsharma.myapplication",
+    "sha256_cert_fingerprints":
+    ["E6:3D:69:4D:5C:35:E7:75:43:DA:A2:67:C3:AB:D4:3B:42:BA:ED:4B:53:FA:92:38:63:BC:1A:7C:8C:C0:3F:14"]
+  }
+}]
